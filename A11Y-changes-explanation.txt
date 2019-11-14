@@ -1,0 +1,10 @@
+For the archery site, changed light blue from #03a3df (from provided color palette)
+to #18BFFB to change contrast from 3.38 to 4.58
+For the Kitties site, change the nav text from #808080 to #595959 to increase from 2.64 to 4.69
+
+I added tabindex for the webforms in the archery site to tab through the long form.
+
+For both sites, I changed "alt" and and added "title" to text that are much more descriptive
+
+For the kitties site, I changed "Book Now" to "Reserve your Cat of The Week" because "A link should explain clearly what information the reader will get by clicking on that link"
+ALSO, changed "Find out more" to "Find out more about Cat in The News"
